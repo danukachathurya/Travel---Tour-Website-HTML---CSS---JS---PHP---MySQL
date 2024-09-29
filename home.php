@@ -18,6 +18,50 @@
 <body>
 <?php include 'header.php'; ?>
 
+<!-- Home section starts -->
+
+
+
+<!-- Home section starts -->
+
+<section class="home">
+    <div class="swiper home-slider">
+        <div class="swiper-wrapper">
+
+            <div class="swiper-slide slide" style="background:url(images/home-slide-1.jpg) no-repeat">
+                <div class="content">
+                    <span>explore, discover, travel</span>
+                    <h3>travel arround the world</h3>
+                    <a href="packages.php" class="btn"> discover more </a>
+                </div>
+            </div>
+
+            <div class="swiper-slide slide" style="background:url(images/home-slide-2.jpg) no-repeat">
+                <div class="content">
+                    <span>explore, discover, travel</span>
+                    <h3>discover the new places</h3>
+                    <a href="packages.php" class="btn"> discover more </a>
+                </div>
+            </div>
+
+            <div class="swiper-slide slide" style="background:url(images/home-slide-3.jpg) no-repeat">
+                <div class="content">
+                    <span>explore, discover, travel</span>
+                    <h3>make your tour worthwhile</h3>
+                    <a href="packages.php" class="btn"> discover more </a>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="swiper-button-next"></div>
+        <div class="swiper-button-prev"></div>
+
+    </div>
+</section>
+
+<!-- Services section starts -->
+
 <section class="services">
     <h1 class="heading-title"> our services </h1>
 
@@ -53,6 +97,8 @@
         </div>
     </div>
 </section>
+
+<!-- Services section ends -->
 
 <!-- swiper js link -->
 <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
