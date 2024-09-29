@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
 
     <!-- custom css file link -->
-    <link rel="stylesheet" href="css/header.css">
+    <link rel="stylesheet" href="css/main.css">
 
     <!-- swiper css link -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"/>
@@ -35,7 +35,7 @@
 <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
 
 <!-- custom js file link -->
-<script src="js/header.js"></script>
+<script src="js/script.js"></script>
  
 </body>
 </html>
