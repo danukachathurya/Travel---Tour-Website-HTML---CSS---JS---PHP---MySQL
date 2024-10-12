@@ -31,7 +31,7 @@
             <div class="swiper-slide slide" style="background:url(images/home-slide-1.jpg) no-repeat">
                 <div class="content">
                     <span>explore, discover, travel</span>
-                    <h3>travel arround the world</h3>
+                    <h3>travel around the world</h3>
                     <a href="packages.php" class="btn"> discover more </a>
                 </div>
             </div>
@@ -99,6 +99,83 @@
 </section>
 
 <!-- Services section ends -->
+
+
+<!-- home about section start -->
+
+<section class="home-about">
+    <div class="image">
+        <img src="images/home-about.jpeg" alt="Description of the image">
+    </div>
+
+    <div class="content">
+        <h3>About Us</h3>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. In rerum nobis doloremque cupiditate reprehenderit quo repudiandae quas cumque quam voluptatibus explicabo, illum quia quaerat libero dolore praesentium magnam sapiente natus eos porro modi quidem fuga et ea.</p>
+        <a href="about.php" class="btn">Read More</a>    
+    </div>
+</section>
+
+
+<!-- home about section ends -->
+
+
+<!-- home package section start -->
+
+<section class="home-packages">
+    <h1 class="heading-title"> our packages </h1>
+
+    <div class="box-container">
+        <div class="box">
+            <div class="image">
+                <img src="images/pkg1.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>adventure & tour</h3>
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Atque, accusamus?</p>
+                <a href="book.php" class="btn">book now</a>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="image">
+                <img src="images/pkg2.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>adventure & tour</h3>
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Atque, accusamus?</p>
+                <a href="book.php" class="btn">book now</a>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="image">
+                <img src="images/pkg3.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>adventure & tour</h3>
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Atque, accusamus?</p>
+                <a href="book.php" class="btn">book now</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="load-more"> <a href="package.php" class="btn"> load more </a> </div>
+</section>
+
+<!-- home package section ends -->
+
+
+<!-- home offer section start -->
+
+<section class="home-offer">
+    <div class="content">
+        <h3>upto 50% off</h3>
+        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Veniam laboriosam natus placeat accusantium perspiciatis rerum molestias eum aliquam illo unde.</p>
+        <a href="book.php" class="btn">book now</a>
+    </div>
+</section>
+
+<!-- home offer section ends -->
 
 <!-- swiper js link -->
 <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
